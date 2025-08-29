@@ -1,4 +1,4 @@
-# Token Staking Contract for Tapestry Explorer
+# SSE Token Staking Contract
 
 # Prerequites
 
